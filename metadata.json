@@ -1,0 +1,6 @@
+{
+  "name": "Vantage Live Price Tracker",
+  "description": "A real-time bento-style price tracker for global stock exchanges, metals, crypto, energy, and foreign exchange, optimized for US and Chinese audiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

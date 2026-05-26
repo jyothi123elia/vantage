@@ -1,0 +1,6 @@
+# Public robots.txt file for Vantage Real-Time Tracker
+User-agent: *
+Allow: /
+
+# Link to the XML Sitemap
+Sitemap: https://ais-pre-dha4bixn3tv2pmi2fehph3-830061707982.asia-east1.run.app/sitemap.xml
